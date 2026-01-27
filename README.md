@@ -5,7 +5,7 @@
 
 <img width="1091" height="827" alt="image" src="https://github.com/user-attachments/assets/8d12f4d9-131e-4b0f-9d7c-c0e8e551897b" />
 these are the footprint
-
+IT IS NOT TO BE SCREWED TOGETHER BUT GOES INTO THE KEYS ( PLEASE DONT REJECT ME FOR THIS I REALLY ANT TO TRY THIS IDEA TO MAKE IT MORE MINIMALIST)
 MX-Style switches 16
 
 Through-hole 1N4148 Diodes 16
