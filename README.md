@@ -1,6 +1,7 @@
-
+<img width="1251" height="725" alt="macropad final 28th" src="https://github.com/user-attachments/assets/4178484b-cfe9-48d2-9779-ca17b9b250b3" />
 <img width="683" height="552" alt="pcb final" src="https://github.com/user-attachments/assets/8784eb37-d2d0-4b5d-a8b8-b167077c2c9b" />
 <img width="580" height="488" alt="image" src="https://github.com/user-attachments/assets/f0247a73-0bbb-43c1-bcdb-1a7d4840a0c1" />
+<img width="1203" height="738" alt="Screenshot 2026-01-28 221529" src="https://github.com/user-attachments/assets/bede3e40-1f0f-40ee-a78e-174ee895773d" />
 
 
 <img width="1091" height="827" alt="image" src="https://github.com/user-attachments/assets/8d12f4d9-131e-4b0f-9d7c-c0e8e551897b" />
