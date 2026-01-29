@@ -6,10 +6,15 @@
 
 <img width="1091" height="827" alt="image" src="https://github.com/user-attachments/assets/8d12f4d9-131e-4b0f-9d7c-c0e8e551897b" />
 these are the footprint
+
 BOM
+
 MX-Style switches 16
+
 M3x16mm screws
+
 M3x5mx4mm heatset inserts
+
 Through-hole 1N4148 Diodes 16
 
 Seeed XIAO RP2040 1
